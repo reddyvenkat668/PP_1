@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate2"/>
+	<classpathentry kind="lib" path="D:/SoftWares/sqldeveloper/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JPAlib"/>
+	<classpathentry kind="lib" path="C:/Users/vkatasan/Downloads/JPA With Hibernate/Demos/Demos/JPAStarter/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
